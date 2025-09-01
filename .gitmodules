@@ -1,3 +1,6 @@
 [submodule "aescrypt_engine"]
 	path = aescrypt_engine
 	url = https://github.com/terrapane/aescrypt_engine.git
+[submodule "androidcrypt-conio"]
+	path = androidcrypt-conio
+	url = git@github.com:ndew623/androidcrypt-conio.git

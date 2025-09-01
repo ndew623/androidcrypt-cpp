@@ -13,3 +13,6 @@
 [submodule "androidcrypt-logger"]
 	path = androidcrypt-logger
 	url = git@github.com:ndew623/androidcrypt-logger.git
+[submodule "androidcrypt-libhash"]
+	path = androidcrypt-libhash
+	url = git@github.com:ndew623/androidcrypt-libhash.git

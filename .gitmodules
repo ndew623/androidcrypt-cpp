@@ -1,0 +1,3 @@
+[submodule "aescrypt_engine"]
+	path = aescrypt_engine
+	url = https://github.com/terrapane/aescrypt_engine.git

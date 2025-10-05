@@ -16,3 +16,9 @@
 [submodule "androidcrypt-libhash"]
 	path = androidcrypt-libhash
 	url = git@github.com:ndew623/androidcrypt-libhash.git
+[submodule "androidcrypt-libaes"]
+	path = androidcrypt-libaes
+	url = git@github.com:ndew623/androidcrypt-libaes.git
+[submodule "androidcrypt-secutil"]
+	path = androidcrypt-secutil
+	url = git@github.com:ndew623/androidcrypt-secutil.git

@@ -1,24 +1,9 @@
-[submodule "aescrypt_engine"]
-	path = aescrypt_engine
-	url = https://github.com/terrapane/aescrypt_engine.git
 [submodule "androidcrypt-conio"]
 	path = androidcrypt-conio
 	url = git@github.com:ndew623/androidcrypt-conio.git
 [submodule "androidcrypt-aescrypt_engine"]
 	path = androidcrypt-aescrypt_engine
 	url = git@github.com:ndew623/androidcrypt-aescrypt_engine.git
-[submodule "androidcrypt-libkdf"]
-	path = androidcrypt-libkdf
-	url = git@github.com:ndew623/androidcrypt-libkdf.git
 [submodule "androidcrypt-logger"]
 	path = androidcrypt-logger
 	url = git@github.com:ndew623/androidcrypt-logger.git
-[submodule "androidcrypt-libhash"]
-	path = androidcrypt-libhash
-	url = git@github.com:ndew623/androidcrypt-libhash.git
-[submodule "androidcrypt-libaes"]
-	path = androidcrypt-libaes
-	url = git@github.com:ndew623/androidcrypt-libaes.git
-[submodule "androidcrypt-secutil"]
-	path = androidcrypt-secutil
-	url = git@github.com:ndew623/androidcrypt-secutil.git

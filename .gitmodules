@@ -1,9 +1,9 @@
 [submodule "androidcrypt-conio"]
-	path = androidcrypt-conio
-	url = git@github.com:ndew623/androidcrypt-conio.git
+    path = androidcrypt-conio
+    url = https://github.com/ndew623/androidcrypt-conio.git
 [submodule "androidcrypt-aescrypt_engine"]
-	path = androidcrypt-aescrypt_engine
-	url = git@github.com:ndew623/androidcrypt-aescrypt_engine.git
+    path = androidcrypt-aescrypt_engine
+    url = https://github.com/ndew623/androidcrypt-aescrypt_engine.git
 [submodule "androidcrypt-logger"]
-	path = androidcrypt-logger
-	url = git@github.com:ndew623/androidcrypt-logger.git
+    path = androidcrypt-logger
+    url = https://github.com/ndew623/androidcrypt-logger.git
